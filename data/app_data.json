@@ -1,0 +1,36 @@
+{
+	"android": {
+		"build": 1,
+		"minSupportedBuild": 1,
+		"version": "24.1",
+		"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
+		"other_languages": [{
+			"name": "Six-Letter Word Game",
+			"language": "English",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.slwg",
+			"status": "beta"
+		}],
+		"other_games": [{
+				"name": "Beş Harfli Kelime Oyunu",
+				"language": "Türkçe",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
+				"status": "released"
+			},
+			{
+				"name": "Yedi Harfli Kelime Oyunu",
+				"language": "Türkçe",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.yhko",
+				"status": "beta"
+			}
+		]
+	},
+	"game": {
+		"start": { "month": 1, "year": 2024 },
+		"latest": { "month": 12, "year": 2024 },
+		"dv": 1
+	},
+	"api": {
+		"date": "https://timeapi.io/api/Time/current/zone?timeZone=Etc/UTC",
+		"date_fallback": "https://worldtimeapi.org/api/timezone/Etc/UTC"
+	}
+}

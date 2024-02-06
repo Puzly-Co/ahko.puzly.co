@@ -1,8 +1,8 @@
 {
 	"android": {
-		"build": 1,
+		"build": 2,
 		"minSupportedBuild": 1,
-		"version": "24.1",
+		"version": "24.2",
 		"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
 		"other_languages": [{
 			"name": "Six-Letter Word Game",

@@ -1,15 +1,22 @@
 {
 	"android": {
-		"build": 2,
-		"minSupportedBuild": 1,
-		"version": "24.2",
+		"build": 3,
+		"minSupportedBuild": 2,
+		"version": "24.3",
 		"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
 		"other_languages": [{
-			"name": "Six-Letter Word Game",
-			"language": "English",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.slwg",
-			"status": "beta"
-		}],
+				"name": "Six-Letter Word Game",
+				"language": "English",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.slwg",
+				"status": "beta"
+			},
+			{
+				"name": "Алты Тамгалуу Сөз Оюну",
+				"language": "Кыргызча",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.atso",
+				"status": "beta"
+			}
+		],
 		"other_games": [{
 				"name": "Beş Harfli Kelime Oyunu",
 				"language": "Türkçe",
@@ -22,7 +29,8 @@
 				"url": "https://play.google.com/store/apps/details?id=co.puzly.yhko",
 				"status": "beta"
 			}
-		]
+		],
+		"custom_ads": {}
 	},
 	"game": {
 		"start": { "month": 1, "year": 2024 },
